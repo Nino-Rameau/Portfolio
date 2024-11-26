@@ -1,0 +1,20 @@
+/* HEADER */
+.img_header {
+  width: 30px;
+}
+
+button {
+  color: #acddf6;
+  background-color: #28337e;
+}
+
+/*FOOTER*/
+
+.lien img {
+  width: 40px;
+}
+
+header,
+footer {
+  background-color: #4269b1;
+}
